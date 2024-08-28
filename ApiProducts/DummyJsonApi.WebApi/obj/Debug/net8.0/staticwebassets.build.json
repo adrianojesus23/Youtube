@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NXeQ3aPvKZNNT5CYtFeb37fvacU1tATohuhyFUR7A4Y=",
+  "Source": "DummyJsonApi.WebApi",
+  "BasePath": "_content/DummyJsonApi.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DummyJsonApi.WebApi.props" />
+</Project>

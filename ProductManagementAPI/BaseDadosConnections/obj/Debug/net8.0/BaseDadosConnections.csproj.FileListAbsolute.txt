@@ -1,0 +1,14 @@
+C:\Code\Backend\ProductManagementAPI\BaseDadosConnections\bin\Debug\net8.0\BaseDadosConnections.deps.json
+C:\Code\Backend\ProductManagementAPI\BaseDadosConnections\bin\Debug\net8.0\BaseDadosConnections.runtimeconfig.json
+C:\Code\Backend\ProductManagementAPI\BaseDadosConnections\bin\Debug\net8.0\BaseDadosConnections.dll
+C:\Code\Backend\ProductManagementAPI\BaseDadosConnections\bin\Debug\net8.0\BaseDadosConnections.pdb
+C:\Code\Backend\ProductManagementAPI\BaseDadosConnections\obj\Debug\net8.0\BaseDadosConnections.csproj.AssemblyReference.cache
+C:\Code\Backend\ProductManagementAPI\BaseDadosConnections\obj\Debug\net8.0\BaseDadosConnections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Backend\ProductManagementAPI\BaseDadosConnections\obj\Debug\net8.0\BaseDadosConnections.AssemblyInfoInputs.cache
+C:\Code\Backend\ProductManagementAPI\BaseDadosConnections\obj\Debug\net8.0\BaseDadosConnections.AssemblyInfo.cs
+C:\Code\Backend\ProductManagementAPI\BaseDadosConnections\obj\Debug\net8.0\BaseDadosConnections.csproj.CoreCompileInputs.cache
+C:\Code\Backend\ProductManagementAPI\BaseDadosConnections\obj\Debug\net8.0\BaseDadosConnections.dll
+C:\Code\Backend\ProductManagementAPI\BaseDadosConnections\obj\Debug\net8.0\refint\BaseDadosConnections.dll
+C:\Code\Backend\ProductManagementAPI\BaseDadosConnections\obj\Debug\net8.0\BaseDadosConnections.pdb
+C:\Code\Backend\ProductManagementAPI\BaseDadosConnections\obj\Debug\net8.0\BaseDadosConnections.genruntimeconfig.cache
+C:\Code\Backend\ProductManagementAPI\BaseDadosConnections\obj\Debug\net8.0\ref\BaseDadosConnections.dll

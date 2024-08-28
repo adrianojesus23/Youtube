@@ -1,0 +1,14 @@
+C:\Code\Backend\YouTube\001Delegates\bin\Debug\net8.0\001Delegates.exe
+C:\Code\Backend\YouTube\001Delegates\bin\Debug\net8.0\001Delegates.deps.json
+C:\Code\Backend\YouTube\001Delegates\bin\Debug\net8.0\001Delegates.runtimeconfig.json
+C:\Code\Backend\YouTube\001Delegates\bin\Debug\net8.0\001Delegates.dll
+C:\Code\Backend\YouTube\001Delegates\bin\Debug\net8.0\001Delegates.pdb
+C:\Code\Backend\YouTube\001Delegates\obj\Debug\net8.0\001Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Backend\YouTube\001Delegates\obj\Debug\net8.0\001Delegates.AssemblyInfoInputs.cache
+C:\Code\Backend\YouTube\001Delegates\obj\Debug\net8.0\001Delegates.AssemblyInfo.cs
+C:\Code\Backend\YouTube\001Delegates\obj\Debug\net8.0\001Delegates.csproj.CoreCompileInputs.cache
+C:\Code\Backend\YouTube\001Delegates\obj\Debug\net8.0\001Delegates.dll
+C:\Code\Backend\YouTube\001Delegates\obj\Debug\net8.0\refint\001Delegates.dll
+C:\Code\Backend\YouTube\001Delegates\obj\Debug\net8.0\001Delegates.pdb
+C:\Code\Backend\YouTube\001Delegates\obj\Debug\net8.0\001Delegates.genruntimeconfig.cache
+C:\Code\Backend\YouTube\001Delegates\obj\Debug\net8.0\ref\001Delegates.dll
