@@ -8,4 +8,10 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="SqlKata" Version="3.0.0-beta" />
+      <PackageReference Include="SqlKata.Execution" Version="3.0.0-beta" />
+      <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+    </ItemGroup>
+
 </Project>

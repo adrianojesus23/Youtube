@@ -12,3 +12,16 @@ C:\Code\Backend\YouTube\001Delegates\obj\Debug\net8.0\refint\001Delegates.dll
 C:\Code\Backend\YouTube\001Delegates\obj\Debug\net8.0\001Delegates.pdb
 C:\Code\Backend\YouTube\001Delegates\obj\Debug\net8.0\001Delegates.genruntimeconfig.cache
 C:\Code\Backend\YouTube\001Delegates\obj\Debug\net8.0\ref\001Delegates.dll
+C:\Code\Backend\YouTube\001Delegates\bin\Debug\net8.0\Dapper.dll
+C:\Code\Backend\YouTube\001Delegates\bin\Debug\net8.0\Humanizer.dll
+C:\Code\Backend\YouTube\001Delegates\bin\Debug\net8.0\SqlKata.dll
+C:\Code\Backend\YouTube\001Delegates\bin\Debug\net8.0\SqlKata.Execution.dll
+C:\Code\Backend\YouTube\001Delegates\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Code\Backend\YouTube\001Delegates\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Code\Backend\YouTube\001Delegates\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Code\Backend\YouTube\001Delegates\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Code\Backend\YouTube\001Delegates\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code\Backend\YouTube\001Delegates\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Code\Backend\YouTube\001Delegates\obj\Debug\net8.0\001Delegates.csproj.AssemblyReference.cache
+C:\Code\Backend\YouTube\001Delegates\obj\Debug\net8.0\001Delegates.sourcelink.json
+C:\Code\Backend\YouTube\001Delegates\obj\Debug\net8.0\001Delegates.csproj.CopyComplete

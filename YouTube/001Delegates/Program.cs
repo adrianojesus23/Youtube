@@ -3,7 +3,7 @@ using _001Delegates.Services;
 using _001Delegates.Services.Models;
 
 
-
+//002Singleton
 
 //*****************************************************************
 

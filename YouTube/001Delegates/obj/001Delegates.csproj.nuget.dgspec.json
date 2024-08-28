@@ -40,6 +40,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "SqlKata": {
+              "target": "Package",
+              "version": "[3.0.0-beta, )"
+            },
+            "SqlKata.Execution": {
+              "target": "Package",
+              "version": "[3.0.0-beta, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
