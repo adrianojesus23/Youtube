@@ -9,30 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="add5dc2e-74cd-4f68-8e5a-51132bc7b767" name="Changes" comment="Add">
+    <list default="true" id="add5dc2e-74cd-4f68-8e5a-51132bc7b767" name="Changes" comment="002Singleton">
       <change beforePath="$PROJECT_DIR$/../ProductManagementAPI/ApiLivros" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductManagementAPI/ApiLivros" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.YouTube.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.YouTube.dir/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/001Delegates.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/001Delegates.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/bin/Debug/net8.0/001Delegates.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/bin/Debug/net8.0/001Delegates.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/bin/Debug/net8.0/001Delegates.dll" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/bin/Debug/net8.0/001Delegates.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/bin/Debug/net8.0/001Delegates.exe" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/bin/Debug/net8.0/001Delegates.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/bin/Debug/net8.0/001Delegates.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/bin/Debug/net8.0/001Delegates.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/obj/001Delegates.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/obj/001Delegates.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/001Delegates.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/001Delegates.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/001Delegates.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/001Delegates.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/001Delegates.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/001Delegates.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/001Delegates.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/001Delegates.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/001Delegates.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/001Delegates.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/001Delegates.dll" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/001Delegates.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/001Delegates.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/001Delegates.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/ref/001Delegates.dll" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/ref/001Delegates.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/refint/001Delegates.dll" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/obj/Debug/net8.0/refint/001Delegates.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/001Delegates/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/001Delegates/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1724799183588</updated>
-      <workItem from="1724799184645" duration="7013000" />
+      <workItem from="1724799184645" duration="7168000" />
     </task>
     <task id="LOCAL-00001" summary="Add folder">
       <option name="closed" value="true" />
@@ -160,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724807662153</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="002Singleton">
+      <option name="closed" value="true" />
+      <created>1724808861326</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724808861326</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,7 +180,9 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Add folder" />
     <MESSAGE value="Add" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add" />
+    <MESSAGE value="002Singleton" />
+    <MESSAGE value="002Singleton1" />
+    <option name="LAST_COMMIT_MESSAGE" value="002Singleton1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
