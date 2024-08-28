@@ -5,6 +5,20 @@ using _001Delegates.Services.Models;
 
 //002Singleton
 
+var vendorService = new VendorService();
+
+var vendors = await vendorService.GetAsync();
+
+foreach (var vendor in vendors)
+{
+    Console.WriteLine($"{vendor.VendorID} : {vendor.VendorName}");
+}
+
+
+
+
+
+
 //*****************************************************************
 
 var lisUser = new List<User>()
